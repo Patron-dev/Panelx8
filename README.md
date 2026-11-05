@@ -20,7 +20,7 @@ Ejecuta los siguientes comandos en tu VPS:
 
 git clone https://github.com/Patron-dev/Panelx8.git
 
-cd panelx8.sh
+cd Panelx8.sh
 
 chmod +x panelx8.sh
 
