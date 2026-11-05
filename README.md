@@ -18,7 +18,7 @@ Panelx8 🧑🏻‍💻🌎
 
 Ejecuta los siguientes comandos en tu VPS:
 
-git clone https://github.com/Patron-dev/panelx8.sh
+git clone https://github.com/Patron-dev/Panelx8.git
 
 cd panelx8.sh
 
