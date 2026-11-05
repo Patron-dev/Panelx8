@@ -1,4 +1,4 @@
-Script Panelx8 🧑🏻‍💻🌎
+Script Bhttp Panelx8 🧑🏻‍💻🌎
 
 - Instalación manual
 - Ligero y estable
